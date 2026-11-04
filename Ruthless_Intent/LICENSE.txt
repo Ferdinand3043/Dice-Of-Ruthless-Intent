@@ -1,0 +1,5 @@
+Copyright (c) 2026 Alex Ferdinand. All rights reserved.
+
+This source code is made available solely for viewing and educational purposes only. 
+
+No part of this software, code, or documentation may be used, copied, modified, reproduced, distributed, or sublicensed for any personal, commercial, or non-commercial purpose without the express written permission of the copyright holder.
